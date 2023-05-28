@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### Group_Assignment_2
-# 
-# ## Andy Kim -- andy.kim141@gmail.com -- 28396159
-# ## Dimitrije Gacic -- gacicd77@gmail.com -- 84137744
-# ## Nila Akter -- nilaakter604@gmail.com -- 31043169
 
 # In[2]:
 
