@@ -13,10 +13,10 @@ The optimal max_depth value is determined to be 8, where the model achieves a go
 # How to Use
 1. Ensure that the required libraries (pandas, sklearn) are installed.
 2. Prepare the credit data in a CSV file named "credit_data.csv" with appropriate column names.
-3. Copy and run the provided code in a Python environment such as Jupyter Notebook or an Integrated Development Environment (IDE) with Python support.
+3. Copy and run the provided code in a Python environment such as Jupyter Notebook or an IDE with Python support.
 4. Adjust the max_depth parameter in the code if desired.
 5. Analyze the training and testing scores to evaluate the model's performance.
-6. Visualize the decision tree to interpret the model's decision-making process.
+6. Visualize the decision tree to replicate the model's decision-making process.
 
 # Evaluation 
 The project demonstrates the process of using a decision tree classifier to analyze credit data. The initial model shows signs of overfitting, as indicated by a perfect training score and a lower testing score. To address this, the project implements parameter tuning by adjusting the max_depth value.
